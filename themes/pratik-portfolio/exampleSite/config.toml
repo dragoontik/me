@@ -1,8 +1,8 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "Pratik"
-theme = "pratik-portfolio"
-copyright="© Pratik Patel"
+title = "Edna West"
+theme = "personal-web"
+copyright="© Edna West"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -10,10 +10,11 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Pratik :wave:"
-  sub = "I'm an Analyst and Builder"
+  main = "Hi, I'm Edna :wave:"
+  sub = "I'm a Web Developer and Entrepreneur"
 
-
+[params.main]
+  latestPublishHeader = "My Latest Project"
 
 [taxonomies]
   design = "designs"
@@ -57,6 +58,7 @@ pygmentsCodeFences=true
   youtube = "https://www.youtube.com/"
   instagram = "https://www.instagram.com/"
   gitlab = "https://gitlab.com/"
+  keybase = "https://keybase.io/"
 
 [params.contact]
   email = ""
@@ -69,7 +71,7 @@ pygmentsCodeFences=true
   identifier = "about"
   name = "About"
   title = "About section"
-  url = "/"
+  url = "/about/"
   weight = -120
 
 [[menu.main]]
@@ -80,17 +82,10 @@ pygmentsCodeFences=true
   weight = -110
 
 [[menu.main]]
-  identifier = "experience"
-  name = "Work Experience"
-  title = "Work Experience"
-  url = "/experience/"
-  weight = -100
-
-[[menu.main]]
-  identifier = "papers"
-  name = "White Papers"
-  title = "Papers"
-  url = "/papers/"
+  identifier = "blog"
+  name = "Post"
+  title = "Blog section"
+  url = "/post/"
   weight = -100
 
 [sitemap]
