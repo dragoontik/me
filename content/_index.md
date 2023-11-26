@@ -2,10 +2,10 @@
 draft = true
 +++
 
+# About Me
 
-# Pratik Patel
+Hi I'm Pratik, 
 
-### Test
 
 
 Test
