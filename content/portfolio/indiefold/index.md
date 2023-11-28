@@ -5,6 +5,7 @@ date: "2022-01-02T19:47:09+02:00"
 jobDate: 2022
 work: [Web App]
 techs: [Nuxt.js (Javascript), Quart (Python), Spring Boot (Java/Kotlin)]
+designs: [Vue.js, Boostrap]
 thumbnail: images/valorant-dashboard.png
 projectUrl: https://indiefold.com
 ---

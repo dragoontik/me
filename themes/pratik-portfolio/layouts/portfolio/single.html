@@ -5,10 +5,12 @@
   {{ partial "portfolio/tags" .}}
 </div>
 
-<img title="{{.Title}}" alt="{{.Title}}" src="/portfolio/{{ .Params.Thumbnail }}" />
+
 
 {{ .Content }}
 
+{{/*  Decided to remove this  */}}
+{{/*  <img title="{{.Title}}" alt="{{.Title}}" src="/portfolio/{{ .Params.Thumbnail }}" />  */}}
 
 {{/*  {{ if .Params.testimonial }}
   <h3>Testimonial</h3>

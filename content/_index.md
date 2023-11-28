@@ -3,6 +3,7 @@ title: PRATIK
 description: Welcome to this sample project
 images: ["/images/sample.jpg"]
 ---
+## About Me
 
 Hey there! :wave:
 
@@ -14,7 +15,7 @@ Hey there! :wave:
 
  I'm Pratik, and I'm all about the exciting world of tech, video games, art, and game development. My biggest passion? Creating platforms that empower and support creative individuals on their journey to success, all while making their lives a little bit easier. 
  
- I'm on a mission to make the world a better place, one of the motivations behind me building <a href="https://indiefold.com" target="_blank">IndieFold</a>, a project I proudly launched to champion and nurture creativity in the Indie game dev community. Connect with me on this adventure, where fun meets professionalism, and together, we'll shape a brighter, more creative world.
+ I'm on a mission to make the world a better place, one of the motivations behind me building <a href="https://indiefold.com" target="_blank">IndieFold</a>, a project I proudly launched to champion and nurture creativity in the Indie game dev community. Connect with me on this adventure, where games and art meet, and together, we'll shape a brighter, more creative world.
 
 
 ## Explore

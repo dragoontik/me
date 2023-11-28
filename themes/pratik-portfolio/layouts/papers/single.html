@@ -2,18 +2,21 @@
 
 <h1>{{ .Title }}</h1>
 <div class="tags">
-  {{ partial "portfolio/tags" .}}
+  {{ partial "papers/tags" .}}
 </div>
+<br/>
 
-<img title="{{.Title}}" alt="{{.Title}}" src="/portfolio/{{ .Params.Thumbnail }}" />
 
 {{ .Content }}
+
+{{/*  Decided to remove this  */}}
+{{/*  <img title="{{.Title}}" alt="{{.Title}}" src="/papers/{{ .Params.Thumbnail }}" height="450" />  */}}
 
 {{ if .Params.testimonial }}
   <h3>Testimonial</h3>
   <div class="testimonial-list">
     {{ with .Params.testimonial }}
-        {{ partial "portfolio/testimonial" . }}
+        {{ partial "papers/testimonial" . }}
     {{ end }}
   </div>
 {{ end }}
