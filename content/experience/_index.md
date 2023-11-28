@@ -69,6 +69,8 @@ data review and accurate data reporting
 
 #### Graduate Assistant 
 
+<br />
+
 - Supported predictive analytics by utilizing variety of tools (SAS, SAS Visual Analytics, Microsoft Power BI, R) and
 other BI/ tools to respond to the analytical needs around student success metrics. 
 

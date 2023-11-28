@@ -4,6 +4,7 @@
   {{ .Content }}
 
   {{ range .Pages.ByDate.Reverse }}
+  <h3>{{ .Title }}</h3>
     {{ partial "papers/item" .}}
   {{ end }}
 

@@ -8,7 +8,9 @@
       </a>
     </div>
     <h2>{{ .Site.Params.intro.main | default "Welcome, I'm John Doe" | emojify }}</h2>
+    <h4>{{ .Site.Params.intro.pronoun | default "This is my personal website" | emojify }}</h4>
     <h3>{{ .Site.Params.intro.sub | default "This is my personal website" | emojify }}</h3>
+    
     <div class="menu">
       {{ partial "sidebar/menu" . }}
       {{ if .Site.Params.contact.email }}
@@ -41,7 +43,7 @@
     <div class="intro">
       <div class="logo-container">
         <a href="/">
-          <img src='{{ .Site.Params.sidebar.logo | default "images/edna-west.jpg" | absURL }}' alt="Profile {{ .Title }}" class="rounded-logo">
+          <img src='{{ .Site.Params.sidebar.logo | default "images/pfp_round.jpg" | absURL }}' alt="Profile {{ .Title }}" class="rounded-logo">
         </a>
       </div>
       <h2>{{ .Site.Params.intro.main | default "Welcome, I'm John Doe" | emojify }}</h2>

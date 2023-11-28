@@ -11,6 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, I'm Pratik :wave:"
+  pronoun = "he/him"
   sub = "I'm an Analyst and Builder"
 
 
