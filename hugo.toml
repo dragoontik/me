@@ -49,11 +49,11 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/TheNewStat1"
+  github = "https://github.com/dragoontik"
   twitter = "https://twitter.com/dragoontik"
   linkedin = "https://www.linkedin.com/in/paul-pratik-patel-177276a5/"
-  medium = "https://medium.com/"
-  facebook = "https://www.facebook.com/"
+  medium = "https://medium.com/@TheNewStat1"
+  facebook = "https://www.facebook.com/ppatelfootball/"
 
 [params.contact]
   email = ""
