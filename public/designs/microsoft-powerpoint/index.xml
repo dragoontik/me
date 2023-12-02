@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft PowerPoint on Pratik</title>
+    <link>https://example.com/designs/microsoft-powerpoint/</link>
+    <description>Recent content in Microsoft PowerPoint on Pratik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Pratik Patel</copyright>
+    <lastBuildDate>Wed, 02 Jan 2019 19:47:09 +0200</lastBuildDate>
+    <atom:link href="https://example.com/designs/microsoft-powerpoint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Community Level Correlates to Predict Drug Overdoses from Opioids and Opioid-Drug Interactions in the State of Connecticut</title>
+      <link>https://example.com/papers/opioid-analysis/</link>
+      <pubDate>Wed, 02 Jan 2019 19:47:09 +0200</pubDate>
+      <guid>https://example.com/papers/opioid-analysis/</guid>
+      <description>Abstract Due to two decades of rapidly increasing mortality from useof both illicit and prescription opioid drugs, a search formodifiable community and intrapersonal risk markers are ofgreat interest to public health professionals and first-responders in hopes of preventing opioid induced drugoverdose. This data analysis attempts to predict the risk ofopioid overdoses using a public dataset of overdose victimsfrom the state of Connecticut from 2012 to 2017 along withcity/town level community characteristics from the UnitedStates Census Board via Principle Component LogisticRegression.</description>
+    </item>
+  </channel>
+</rss>

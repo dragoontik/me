@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WORK EXPERIENCE on Pratik</title>
+    <link>https://example.com/experience/</link>
+    <description>Recent content in WORK EXPERIENCE on Pratik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Pratik Patel</copyright>
+    <atom:link href="https://example.com/experience/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

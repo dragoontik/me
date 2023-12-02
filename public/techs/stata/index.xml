@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STATA on Pratik</title>
+    <link>https://example.com/techs/stata/</link>
+    <description>Recent content in STATA on Pratik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Pratik Patel</copyright>
+    <lastBuildDate>Fri, 11 May 2018 19:47:09 +0200</lastBuildDate>
+    <atom:link href="https://example.com/techs/stata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perceived Workplace Factors and their Influence on Self-Reported Mental Health Service Seeking Among Technology Workers</title>
+      <link>https://example.com/papers/tech-mental-health/</link>
+      <pubDate>Fri, 11 May 2018 19:47:09 +0200</pubDate>
+      <guid>https://example.com/papers/tech-mental-health/</guid>
+      <description>Abstract Understanding important motivators of health maintenance is vital in all aspects of personal, social and professional development. It is also of great interest for organizations to be cognizant of the mental healthcare needs as it has been identified as a major contributor to loss of productivity not just for the sufferer but for employers and the economy. Due to the lack of research in determining motivating factors for mental health service seeking among relatively healthy working populations, this data analysis study analyzes publicly available data from a survey of technology workers with the intent to find predictors of seeking mental health treatment.</description>
+    </item>
+  </channel>
+</rss>

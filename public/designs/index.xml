@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designs on Pratik</title>
+    <link>https://example.com/designs/</link>
+    <description>Recent content in Designs on Pratik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Pratik Patel</copyright>
+    <lastBuildDate>Sun, 02 Jan 2022 19:47:09 +0200</lastBuildDate>
+    <atom:link href="https://example.com/designs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boostrap</title>
+      <link>https://example.com/designs/boostrap/</link>
+      <pubDate>Sun, 02 Jan 2022 19:47:09 +0200</pubDate>
+      <guid>https://example.com/designs/boostrap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vue.js</title>
+      <link>https://example.com/designs/vue.js/</link>
+      <pubDate>Sun, 02 Jan 2022 19:47:09 +0200</pubDate>
+      <guid>https://example.com/designs/vue.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photoshop</title>
+      <link>https://example.com/designs/photoshop/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>https://example.com/designs/photoshop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SAS</title>
+      <link>https://example.com/designs/sas/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>https://example.com/designs/sas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft PowerPoint</title>
+      <link>https://example.com/designs/microsoft-powerpoint/</link>
+      <pubDate>Wed, 02 Jan 2019 19:47:09 +0200</pubDate>
+      <guid>https://example.com/designs/microsoft-powerpoint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>STATA</title>
+      <link>https://example.com/designs/stata/</link>
+      <pubDate>Fri, 11 May 2018 19:47:09 +0200</pubDate>
+      <guid>https://example.com/designs/stata/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

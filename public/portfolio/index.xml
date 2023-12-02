@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PORTFOLIO on Pratik</title>
+    <link>https://example.com/portfolio/</link>
+    <description>Recent content in PORTFOLIO on Pratik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Pratik Patel</copyright>
+    <lastBuildDate>Mon, 02 Jan 2023 19:47:09 +0200</lastBuildDate>
+    <atom:link href="https://example.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tableau Dashboard - Valorant Masters 2021</title>
+      <link>https://example.com/portfolio/valorant-masters-2021/</link>
+      <pubDate>Mon, 02 Jan 2023 19:47:09 +0200</pubDate>
+      <guid>https://example.com/portfolio/valorant-masters-2021/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IndieFold.com</title>
+      <link>https://example.com/portfolio/indiefold/</link>
+      <pubDate>Sun, 02 Jan 2022 19:47:09 +0200</pubDate>
+      <guid>https://example.com/portfolio/indiefold/</guid>
+      <description>About Indiefold is a &amp;lsquo;make your own portfolio&amp;rsquo; site aimed at helping indie game developers, studios, and creators organize and market their games, art, and content.
+What people are saying Pratik (the guy you’re replying to) runs a whole platform and website *just* to support indie devs, so I’m sure he’s *VERY* aware of how hard it is lol
+&amp;mdash; Kay Bell, Unemployed ✨🤪 (@deersten) November 21, 2023 he should post on @Indiefold his game stuff so at least more than 4 people see his work</description>
+    </item>
+    <item>
+      <title>Sample project</title>
+      <link>https://example.com/portfolio/sample-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>https://example.com/portfolio/sample-project/</guid>
+      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+  </channel>
+</rss>

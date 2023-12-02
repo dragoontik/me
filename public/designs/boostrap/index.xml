@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boostrap on Pratik</title>
+    <link>https://example.com/designs/boostrap/</link>
+    <description>Recent content in Boostrap on Pratik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Pratik Patel</copyright>
+    <lastBuildDate>Sun, 02 Jan 2022 19:47:09 +0200</lastBuildDate>
+    <atom:link href="https://example.com/designs/boostrap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IndieFold.com</title>
+      <link>https://example.com/portfolio/indiefold/</link>
+      <pubDate>Sun, 02 Jan 2022 19:47:09 +0200</pubDate>
+      <guid>https://example.com/portfolio/indiefold/</guid>
+      <description>About Indiefold is a &amp;lsquo;make your own portfolio&amp;rsquo; site aimed at helping indie game developers, studios, and creators organize and market their games, art, and content.
+What people are saying Pratik (the guy you’re replying to) runs a whole platform and website *just* to support indie devs, so I’m sure he’s *VERY* aware of how hard it is lol
+&amp;mdash; Kay Bell, Unemployed ✨🤪 (@deersten) November 21, 2023 he should post on @Indiefold his game stuff so at least more than 4 people see his work</description>
+    </item>
+  </channel>
+</rss>

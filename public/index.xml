@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PRATIK on Pratik</title>
+    <link>https://example.com/</link>
+    <description>Recent content in PRATIK on Pratik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Pratik Patel</copyright>
+    <lastBuildDate>Mon, 02 Jan 2023 19:47:09 +0200</lastBuildDate>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tableau Dashboard - Valorant Masters 2021</title>
+      <link>https://example.com/portfolio/valorant-masters-2021/</link>
+      <pubDate>Mon, 02 Jan 2023 19:47:09 +0200</pubDate>
+      <guid>https://example.com/portfolio/valorant-masters-2021/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IndieFold.com</title>
+      <link>https://example.com/portfolio/indiefold/</link>
+      <pubDate>Sun, 02 Jan 2022 19:47:09 +0200</pubDate>
+      <guid>https://example.com/portfolio/indiefold/</guid>
+      <description>About Indiefold is a &amp;lsquo;make your own portfolio&amp;rsquo; site aimed at helping indie game developers, studios, and creators organize and market their games, art, and content.
+What people are saying Pratik (the guy you’re replying to) runs a whole platform and website *just* to support indie devs, so I’m sure he’s *VERY* aware of how hard it is lol
+&amp;mdash; Kay Bell, Unemployed ✨🤪 (@deersten) November 21, 2023 he should post on @Indiefold his game stuff so at least more than 4 people see his work</description>
+    </item>
+    <item>
+      <title>Sample project</title>
+      <link>https://example.com/portfolio/sample-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>https://example.com/portfolio/sample-project/</guid>
+      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    <item>
+      <title>Using SAS® Enterprise Guide® and SAS® Visual Analytics to Model a Large Institutional Data Set</title>
+      <link>https://example.com/papers/sas-paper/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>https://example.com/papers/sas-paper/</guid>
+      <description>Abstract Insights and understanding of factors associated with student success is of great significance among higher education universities and the prospective student population including their parents. Prospective students are interested in learning about completion rates and their financial well-being after graduation in the form of expected earnings across universities. Various SAS® procedures in Enterprise Guide® software were used to import, merge, clean, and analyze a big dataset of universities and colleges collected by over a period of 10 years.</description>
+    </item>
+    <item>
+      <title>Using Community Level Correlates to Predict Drug Overdoses from Opioids and Opioid-Drug Interactions in the State of Connecticut</title>
+      <link>https://example.com/papers/opioid-analysis/</link>
+      <pubDate>Wed, 02 Jan 2019 19:47:09 +0200</pubDate>
+      <guid>https://example.com/papers/opioid-analysis/</guid>
+      <description>Abstract Due to two decades of rapidly increasing mortality from useof both illicit and prescription opioid drugs, a search formodifiable community and intrapersonal risk markers are ofgreat interest to public health professionals and first-responders in hopes of preventing opioid induced drugoverdose. This data analysis attempts to predict the risk ofopioid overdoses using a public dataset of overdose victimsfrom the state of Connecticut from 2012 to 2017 along withcity/town level community characteristics from the UnitedStates Census Board via Principle Component LogisticRegression.</description>
+    </item>
+    <item>
+      <title>Perceived Workplace Factors and their Influence on Self-Reported Mental Health Service Seeking Among Technology Workers</title>
+      <link>https://example.com/papers/tech-mental-health/</link>
+      <pubDate>Fri, 11 May 2018 19:47:09 +0200</pubDate>
+      <guid>https://example.com/papers/tech-mental-health/</guid>
+      <description>Abstract Understanding important motivators of health maintenance is vital in all aspects of personal, social and professional development. It is also of great interest for organizations to be cognizant of the mental healthcare needs as it has been identified as a major contributor to loss of productivity not just for the sufferer but for employers and the economy. Due to the lack of research in determining motivating factors for mental health service seeking among relatively healthy working populations, this data analysis study analyzes publicly available data from a survey of technology workers with the intent to find predictors of seeking mental health treatment.</description>
+    </item>
+    <item>
+      <title>Demographic and Socioeconomic Differences between Armed and Unarmed Police Homicide Victims</title>
+      <link>https://example.com/papers/police-violence-paper/</link>
+      <pubDate>Wed, 02 May 2018 19:47:09 +0200</pubDate>
+      <guid>https://example.com/papers/police-violence-paper/</guid>
+      <description>Abstract In the past two years there has been a growing public and academic interest in understanding the relationship between police violence and possible racially motivated shootings of unarmed minorities by law-enforcement. Though, much research has identified and evaluated gaps in knowledge and accounting of police killings and shootings in the United States, deaths by law-enforcement personnel regardless of victim race appear to be unusually high. Reasonable justification of police lethal force is certainly warranted in situations where potential suspects clearly appear to be armed with a weapon, however, little work had been done to establish any commonality characteristics of armed suspects that law-enforcement frequently encounter.</description>
+    </item>
+    <item>
+      <title>Demographic Risk Factors for Obesity in WIC Participant Children Aged 2 to 4 Years Old</title>
+      <link>https://example.com/papers/wic-paper/</link>
+      <pubDate>Thu, 11 May 2017 19:47:09 +0200</pubDate>
+      <guid>https://example.com/papers/wic-paper/</guid>
+      <description>Abstract Obesity continues to be a major public health issue impacting young children who may move on to develop debilitating diseases and chronic conditions in adulthood. A great deal of research has been done to find risk factors that can be intervened upon to reduce the prevalence of obesity in young children from birth to the age of 5 or 6 which include demographic and socioeconomic variables. Multiple intervention studies also point to prenatal, and early childhood time periods as an effective place to aim obesity prevention in.</description>
+    </item>
+    <item>
+      <title>BLOG</title>
+      <link>https://example.com/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/</guid>
+      <description>(Under Construction 👷‍♂️🏗️)</description>
+    </item>
+  </channel>
+</rss>

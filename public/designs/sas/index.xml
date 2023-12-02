@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAS on Pratik</title>
+    <link>https://example.com/designs/sas/</link>
+    <description>Recent content in SAS on Pratik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Pratik Patel</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    <atom:link href="https://example.com/designs/sas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using SAS® Enterprise Guide® and SAS® Visual Analytics to Model a Large Institutional Data Set</title>
+      <link>https://example.com/papers/sas-paper/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>https://example.com/papers/sas-paper/</guid>
+      <description>Abstract Insights and understanding of factors associated with student success is of great significance among higher education universities and the prospective student population including their parents. Prospective students are interested in learning about completion rates and their financial well-being after graduation in the form of expected earnings across universities. Various SAS® procedures in Enterprise Guide® software were used to import, merge, clean, and analyze a big dataset of universities and colleges collected by over a period of 10 years.</description>
+    </item>
+    <item>
+      <title>Demographic and Socioeconomic Differences between Armed and Unarmed Police Homicide Victims</title>
+      <link>https://example.com/papers/police-violence-paper/</link>
+      <pubDate>Wed, 02 May 2018 19:47:09 +0200</pubDate>
+      <guid>https://example.com/papers/police-violence-paper/</guid>
+      <description>Abstract In the past two years there has been a growing public and academic interest in understanding the relationship between police violence and possible racially motivated shootings of unarmed minorities by law-enforcement. Though, much research has identified and evaluated gaps in knowledge and accounting of police killings and shootings in the United States, deaths by law-enforcement personnel regardless of victim race appear to be unusually high. Reasonable justification of police lethal force is certainly warranted in situations where potential suspects clearly appear to be armed with a weapon, however, little work had been done to establish any commonality characteristics of armed suspects that law-enforcement frequently encounter.</description>
+    </item>
+    <item>
+      <title>Demographic Risk Factors for Obesity in WIC Participant Children Aged 2 to 4 Years Old</title>
+      <link>https://example.com/papers/wic-paper/</link>
+      <pubDate>Thu, 11 May 2017 19:47:09 +0200</pubDate>
+      <guid>https://example.com/papers/wic-paper/</guid>
+      <description>Abstract Obesity continues to be a major public health issue impacting young children who may move on to develop debilitating diseases and chronic conditions in adulthood. A great deal of research has been done to find risk factors that can be intervened upon to reduce the prevalence of obesity in young children from birth to the age of 5 or 6 which include demographic and socioeconomic variables. Multiple intervention studies also point to prenatal, and early childhood time periods as an effective place to aim obesity prevention in.</description>
+    </item>
+  </channel>
+</rss>
