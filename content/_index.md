@@ -1,13 +1,13 @@
 ---
 title: PRATIK
 description: Welcome to this sample project
-images: ["/me/images/sample.jpg"]
+images: ["/images/sample.jpg"]
 ---
 ## About Me
 
 Hey there! :wave:
 
-<img src="/me/images/pfp_round.jpg"
+<img src="/images/pfp_round.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 15px; margin-left: 0px; height: 150px; width: 150px; display: block" />
 
