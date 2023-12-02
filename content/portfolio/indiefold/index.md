@@ -6,7 +6,7 @@ jobDate: 2022
 work: [Web App]
 techs: [Nuxt.js (Javascript), Quart (Python), Spring Boot (Java/Kotlin)]
 designs: [Vue.js, Boostrap]
-thumbnail: images/valorant-dashboard.png
+thumbnail: indiefold/promo-banner.jpg
 projectUrl: https://indiefold.com
 ---
 

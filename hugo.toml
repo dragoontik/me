@@ -53,7 +53,6 @@ pygmentsCodeFences=true
   twitter = "https://twitter.com/dragoontik"
   linkedin = "https://www.linkedin.com/in/paul-pratik-patel-177276a5/"
   medium = "https://medium.com/"
-  codepen = "https://codepen.io/"
   facebook = "https://www.facebook.com/"
 
 [params.contact]
@@ -89,6 +88,13 @@ pygmentsCodeFences=true
   name = "White Papers"
   title = "Papers"
   url = "/papers/"
+  weight = -100
+
+[[menu.main]]
+  identifier = "blogs"
+  name = "Blog"
+  title = "Blog"
+  url = "/blog/"
   weight = -100
 
 [sitemap]
