@@ -56,7 +56,7 @@ pygmentsCodeFences=true
   facebook = "https://www.facebook.com/ppatelfootball/"
 
 [params.contact]
-  email = ""
+  email = "ppratikbp@gmail.com"
   text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
