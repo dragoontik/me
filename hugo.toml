@@ -66,7 +66,7 @@ pygmentsCodeFences=true
   identifier = "about"
   name = "About"
   title = "About section"
-  url = "/me"
+  url = "/"
   weight = -120
 
 [[menu.main]]

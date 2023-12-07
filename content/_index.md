@@ -7,7 +7,7 @@ images: ["/images/sample.jpg"]
 
 Hey there! :wave:
 
-<img src="/images/pfp_round.jpg"
+<img src="/me/images/pfp_round.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 15px; margin-left: 0px; height: 150px; width: 150px; display: block" />
 
@@ -20,8 +20,8 @@ Hey there! :wave:
 
 ## Explore
 
-### [Portfolio](/portfolio) - All the stuff I've worked on.
+### [Portfolio](/me/portfolio) - All the stuff I've worked on.
 
-### [White Papers](/papers) - Technical writing I've done.
+### [White Papers](/me/papers) - Technical writing I've done.
 
-### [Work Experience](/experience) - Where I've worked
+### [Work Experience](/me/experience) - Where I've worked
