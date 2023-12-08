@@ -90,6 +90,14 @@ pygmentsCodeFences=true
   url = "/papers/"
   weight = -100
 
+  
+[[menu.main]]
+  identifier = "blogs"
+  name = "Blog"
+  title = "Blog"
+  url = "/blog/"
+  weight = -100
+
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"

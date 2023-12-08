@@ -1,0 +1,13 @@
+{{ partial "header" .}}
+
+  <h1 id="title"> {{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ range .Pages.ByDate.Reverse }}
+  <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
+  {{/*  Add the date  */}}
+  {{ .Date | time.Format ":date_long" }}
+  <br>
+  {{ end }}
+
+{{ partial "footer" .}}
