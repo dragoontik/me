@@ -1,4 +1,4 @@
-baseURL = "https://dragoontik.github.io/me/"
+baseURL = "https://dragoontik.github.io/pratik/"
 languageCode = "en-us"
 title = "Pratik"
 theme = "pratik-portfolio"
@@ -88,13 +88,6 @@ pygmentsCodeFences=true
   name = "White Papers"
   title = "Papers"
   url = "/papers/"
-  weight = -100
-
-[[menu.main]]
-  identifier = "blogs"
-  name = "Blog"
-  title = "Blog"
-  url = "/blog/"
   weight = -100
 
 [sitemap]
